@@ -81,4 +81,4 @@ Notable work:
 
 I have a keen interest in science, history and world affairs keeping up by reading papers online and visiting museums.
 
-I am also very interested in charity and social justice, at university I part of a team which raised £80k for charities across the country, going towards a total for the university of £1.6m in 2016.
+I am also very interested in charity and social justice, at university I part of a team which raised £80k for charities across the country, going towards a total for the university of £1.6m in 2016 and regularly attending peaceful protests and demonstrations.
