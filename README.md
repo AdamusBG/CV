@@ -45,10 +45,11 @@ In my most recent role I was chosen to act as the operator for a sub-division of
 
 In sixth form I delivered a school assembly detailing my work-experience on a clinical trial researching novel treatments for cystic fibrosis. I was commended for delivering it in a way that less science focused and particularly younger students were able to understand and engage with. Following this I decided to put my self forward for positions in which I could practice this skill further.
 
-<span style="font-weight:normal">At University I worked in three extracurricular positions which allowed me to further develop my soft skills:</span>
+<span style="font-weight:normal">At University I worked in two extracurricular positions which allowed me to further develop my soft skills:</span>
+- I campaigned and was elected to the position of vice-president of my halls of residence's student committee. Being the second largest at the university it was my role to oversee our budget of £60k and to act as a point of soft contact for students with concerns. This position was made more difficult as, after only a month eight people out of the committee of ten had quit their positions, working with the president I ultimately took on responsibilities which were above and beyond what was expected.
+- Through a selection process I was placed into a team of 6 people responsible for organising charitable events (including food bank drives and "puppies for the blind" whereby a local guide dog charity brought in puppies and allowed students to interact with them in return for donations) as well as managing teams of up to 50 younger students bucket collecting for charities at events like the Rugby sevens at Twickenham.
 
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+This is a skill that I continuted to bring into my professional life, managing client relations at a level above my formal position and successfully dealing with tough negotiations and civil cases.
 
 ## Education
 
