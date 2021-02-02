@@ -1,8 +1,8 @@
 ## Adam Grieve
 
-I am a first class Genetics graduate with two years’ post University experience in Finance and Analysis (fintech start-up and global investment administration business) looking to develop a career in the fast-paced and dynamic world of technology. 
+I am a first class Genetics graduate with two years’ post-University business experience looking to develop a career in the fast-paced and dynamic world of technology. 
 
-I have always had a deeply held appreciation for all things with hidden layers of complexity and am not satisfied with a surface level understanding of any topic or field I turn my attention to. I see modern computing and technology as the obvious driver of the biggest and fastest changes in human history, they are things that almost everyone on the planet uses and absolutely everyone is affected by. So I felt I could no longer watch the progress from the sidelines, this is why I decided to change career, first taking self-led courses and now studying a 16 week intensive course in programming at Makers Academy.
+I have always had a deeply held appreciation for all things with hidden layers of complexity and am not satisfied with a surface level understanding of any topic or field I turn my attention to. I see modern computing and technology as the obvious driver of the biggest and fastest changes in human history, they are things that almost everyone on the planet uses and absolutely everyone is affected by. So I felt I could no longer watch the progress from the sidelines, this is why I decided to change career, first undertaking several months of self-led, independent learning (focusing on Java & Python) and then completing a 16 week intensive course in programming at Makers Academy.
 
 ## Projects
 
@@ -26,7 +26,7 @@ _Assistant Accountant_
 **URICA Ltd** (August 2017 to July 2018)  
 _Billings & Accounts Receivable Assistant_
 
-- Handled global credit control including pre and post leagal negotiations, bought overdue invoices to their lowest ever point, from 26% to 17%.
+- Handled global credit control including pre and post legal negotiations, bought overdue invoices to their lowest ever point, from 26% to 17%.
 -	Worked closely with lawyers to develop legal cases in suits ranging from £5k to £250k in the UK and abroad.
 -	Led project to create and implement training manual for back-office team in India.
 
@@ -61,13 +61,18 @@ Makers is a 16 week intensive bootcamp with a 10% acceptance rate, considered to
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Self-led programming learning (May 2020 to September 2020)
+
+Completed the 14-week Java Programming MOOC course offered by the University of Helsinki.  
+Used Udemy and codewars to learn Python & HTML/CSS. 
+
 #### University of Nottingham (August 2014 to May 2017)
 
 First class degree in BSc (Hons) Genetics
 
 Notable work:
 - For my final year project, titled "An investigation into phenotypic trait variation in Fission yeast, *Schizosaccharomyces pombe*", I carried out 6 months of lab work aimed at designing robust methodologies to assess the magnitude of difference of phenotypic trait variation in the little studied Fission yeast. I was awarded a First class mark for my 8000 word write up of this project.
-- Bioinformatics module - examining and manipulating large genetic expression datasets (>70,000 data points) using R and excel software.
+- Bioinformatics module - examining and manipulating large genetic expression datasets (>70,000 data points) using R and Excel software.
 - After extracurricular studying, I wrote a paper on the genetic approaches to xenotransplantation (First Class achieved).
 - Experimental design and analysis modules - designing and carrying out scientific experiments.
 
@@ -81,4 +86,4 @@ Notable work:
 
 I have a keen interest in science, history and world affairs keeping up by reading papers online and visiting museums.
 
-I am also very interested in charity and social justice, at university I part of a team which raised £80k for charities across the country, going towards a total for the university of £1.6m in 2016 and regularly attending peaceful protests and demonstrations.
+I am also very interested in charity and enironmental justice, at university I part of a team which raised £80k for charities across the country, going towards a total for the university of £1.6m in 2016 and regularly attending peaceful protests and demonstrations.
