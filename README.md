@@ -2,7 +2,7 @@
 
 I am a first class Genetics graduate with two years’ post-University business experience looking to develop a career in the fast-paced and dynamic world of technology. 
 
-I have always had a deeply held appreciation for all things with hidden layers of complexity and am not satisfied with a surface level understanding of any topic or field I turn my attention to. I see modern computing and technology as the obvious driver of the biggest and fastest changes in human history, they are things that almost everyone on the planet uses and absolutely everyone is affected by. So I felt I could no longer watch the progress from the sidelines, this is why I decided to change career, first undertaking several months of self-led, independent learning (focusing on Java & Python) and then completing a 16 week intensive course in programming at Makers Academy.
+I have always had a deeply held appreciation for all things with hidden layers of complexity and am not satisfied with a surface level understanding of any topic or field I turn my attention to. I see modern computing and technology as the obvious driver of the biggest and fastest changes in human history, they are things that almost everyone on the planet uses and absolutely everyone is affected by. So I felt I could no longer watch the progress from the sidelines, this is why I decided to change career, first undertaking several months of self-led, independent learning (focusing on Java & Python) and then completing a 16 week intensive course in programming at [Makers Academy](https://makers.tech/about-us/).
 
 ## Projects
 
@@ -64,8 +64,8 @@ Makers is a 16 week intensive bootcamp with a 10% acceptance rate, considered to
 
 #### Self-led programming learning (May 2020 to September 2020)
 
-Completed the 14-week Java Programming MOOC course offered by the University of Helsinki.  
-Used Udemy and codewars to learn Python & HTML/CSS. 
+Completed the 14-week [Java Programming MOOC course](https://java-programming.mooc.fi/) offered by the University of Helsinki.  
+Used Udemy and [codewars](https://www.codewars.com/users/AdamusBG) to learn Python & HTML/CSS. 
 
 #### University of Nottingham (August 2014 to May 2017)
 
