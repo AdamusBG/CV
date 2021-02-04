@@ -20,7 +20,7 @@ _Assistant Accountant_
 - I worked closely with clients’ directorship to administer the financial affairs of companies around the world – wider team includes internal stakeholders and colleagues in the Jersey, Guernsey and US offices as well as external stakeholders’  lawyers, subsidiary accountants, auditors and third party advisors.
 - Preparing monthly, quarterly and annual financial statements I learned to work as part of a team and towards strict deadlines and regulations.
 -	Responsibility for managing clients’ payments - including large payments when purchasing property or paying dividends to investors.
-- As part of my anti-money laundering/fraud responsibilities I identified and reported incorrect and frudulent transactions of up to £3.5m
+- As part of my anti-money laundering/fraud responsibilities I identified and reported incorrect and fraudulent transactions of up to £3.5m
 - I was a key	member of internal change management committee – involved with planning and executing an office move, identifying gaps in current training system and considering cost-effective options for improvement (e.g.: use of Adobe Captivate and external training services).
 
 
