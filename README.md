@@ -8,9 +8,9 @@ I have always had a deeply held appreciation for all things with hidden layers o
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Laetus](https://github.com/AdamusBG/laetus)** | A mobile app made for graphic & front-end designers to pick out colours from images. Created using Google's Flutter, it allows for iOS and Android apps to be run from the same codebase. | Flutter. |
 | **[SCLZ](https://github.com/alexleesonmill/acebook-SCLZ)** | A social media website which allows users to sign up, make posts, include images in a post, like posts, make comments, add other users as friends and more! | Ruby on Rails, JavaScript, PostgreSQL, Travis, Heroku, Rspec, etc. |
 | **[GNTRF.IO-BNB](https://github.com/MykeNuLeng/GNTRF.IO-BNB)** | A short-term lettings website (inspired by airBnB) which allows users to sign-up, make multiple listings including images & availability dates, see when listings are available, request a range of dates and more. | HTML (with executable Ruby), CSS, Sinatra, Capybara, RSpec, PostgreSQL. |
+| **[Laetus](https://github.com/AdamusBG/laetus)** | A mobile app made for graphic & front-end designers to pick out colours from images. Created using Google's Flutter, it allows for iOS and Android apps to be run from the same codebase. | Flutter. |
 
 ## Experience
 
